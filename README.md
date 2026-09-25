@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niksan Dhakal</h1>
+<h1 align="center">Hi 👋, I'm Niksan</h1>
 <h3 align="center">Currently enrolled in Elvebakken VGS specialized in IT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazey485&label=Amount%20of%20profile%20stalker:&color=0b1e1d&style=flat" alt="blazey485" /> </p>
