@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Niksan</h1>
 <h3 align="center">Currently enrolled in Elvebakken VGS specialized in IT</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blazey485&label=Amount%20of%20profile%20stalker:&color=0b1e1d&style=flat" alt="blazey485" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazey485" alt="blazey485" /></a> </p>
 <div align="center">
   
 - 🔭 I’m currently working on a **Personal DashBoard** (back and front-end)
-- 
+
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazey485?tab=repositories](https://github.com/Blazey485?tab=repositories)
