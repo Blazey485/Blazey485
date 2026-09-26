@@ -6,13 +6,13 @@
 
 <div align="center">
   
-- 🔭 I’m currently working on a **Personal DashBoard** (back and front-end)
+- 🔭 I’m currently working on a **Personal DashBoard**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazey485?tab=repositories](https://github.com/Blazey485?tab=repositories)
 
-- 💬 Ask me about **Tech** or **lame jokes**
+- 💬 Ask me about **Tech** or **Lame jokes**
 
 - 📫 How to reach me **niksandhakal@gmail.com**
 </div>
