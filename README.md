@@ -52,6 +52,6 @@
   </a>
 </p>
 <br>
-<p align="center"><img align="center" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=blazey485" alt="blazey485" />
+<p align="center"><img align="center" display="flex" src="(https://github-readme-streak-stats.herokuapp.com/?user=blazey485)&theme=dark" alt="blazey485" />
 </p>
 
