@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niksan</h1>
 <h3 align="center">Currently enrolled in Elvebakken VGS specialized in IT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blazey485&label=Amount%20of%20profile%20stalker:&color=0b1e1d&style=flat" alt="blazey485" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blazey485&label=Amount%20of%20profile%20stalker:&color=0b1e1d&style=flat" alt="blazey485" /> </p>
 
 
 <div align="center">
@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://discord.gg/769481868256346112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="769481868256346112" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
