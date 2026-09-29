@@ -6,9 +6,9 @@
 
 <div align="center">
   
-- 🔭 I’m currently working on a **Personal DashBoard**
+- 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Blazey485?tab=repositories](https://github.com/Blazey485?tab=repositories)
 
